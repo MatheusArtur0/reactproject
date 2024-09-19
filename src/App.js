@@ -1,7 +1,12 @@
+import NavBar from './components/NavBar'
+import Footer from './components/Footer'
+
 function App() {
   return (
     <div className="App">
-      <p>Home</p>
+      <NavBar/>
+        <p>Home</p>
+      <Footer/>
     </div>
   )
 }
