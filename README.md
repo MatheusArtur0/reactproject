@@ -23,15 +23,14 @@
 
 </div>
 
-  <div align='center'>
-    <h1 align='center'>Ferramentas Utilizadas</h1>
 
-    | Ferramentas                                                                                            | Finalidade               |
-    |--------------------------------------------------------------------------------------------------------|--------------------------|                          
-    | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)     | Prototipação do projeto  |
-    | ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  | Gestão do projeto        |
+<h1 align='center'>Ferramentas Utilizadas</h1>
 
-</div>
+| Ferramentas                                                                                            | Finalidade               |
+|--------------------------------------------------------------------------------------------------------|--------------------------|                          
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)     | Prototipação do projeto  |
+| ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  | Gestão do projeto        |
+
 
 <div align='center'>
   <h1 align='center'>Contexto</h1>
