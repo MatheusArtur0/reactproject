@@ -34,6 +34,7 @@
 
 <div align='center'>
   <h1 align='center'>Contexto</h1>
+  <img src="./src/img/logo1.png">
 
   A CountriesList é uma plataforma web desenvolvida para oferecer aos usuários uma experiência prática e intuitiva na busca por informações sobre os países do mundo. Ao acessar a plataforma o usuário encontra uma interface simples e eficiente, onde todos os países do globo terrestre estão disponíveis.
 
