@@ -28,8 +28,8 @@
 
 | Ferramentas                                                                                            | Finalidade               | Link                                           |
 |--------------------------------------------------------------------------------------------------------|--------------------------|------------------------------------------------|                          
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)     | Prototipação do projeto  | https://trello.com/b/I7PyRCjT/project-coutries |
-| ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  | Gestão do projeto        | https://www.figma.com/design/AAJhIl2SpPhYu1jxTfZXi7/CountriesList?node-id=74-91&t=IGoWwpqyFKQ58eDb-1 |
+| ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)     | Prototipação do projeto  | https://www.figma.com/design/AAJhIl2SpPhYu1jxTfZXi7/CountriesList?node-id=74-91&t=IGoWwpqyFKQ58eDb-1 |
+| ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  | Gestão do projeto        | https://trello.com/b/I7PyRCjT/project-coutries |
 
 
 <div align='center'>
