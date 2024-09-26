@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Lora", serif;
+}
+
+.container{
+  width: 1140px;
+  margin: 0px 15px;
+  margin: auto !important;
+}
+
+body{
+  background: hsl(207, 26%, 17%);
+}
+
+
+.header{
+  width: 100%;
+  height: 70px;
+  line-height: 70px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: hsl(209, 23%, 22%);
+}
+
+.header h3 {
+  display: flex;
+  align-items: center; 
+  font-size: 1.3rem;
+  color: #fff;
+}
+
+.country_bottom {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 2rem;
+  row-gap: 2rem; 
+}
+
+.country_card {
+  width: 250px;
+  padding: 20px;
+  border-radius: 5px;
+  background: hsl(209, 23%, 22%);
+  color: #fff;
+}
+
+.country_data {
+  
+}
