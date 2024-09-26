@@ -49,8 +49,8 @@ const AllCountries = () => {
 
             <div className="country_data">
               <h3>{country.name.common}</h3>
-              <h6> Population: {country.population}</h6>
-              <h6> Region: {country.region}</h6>
+              <h6> População: {country.population}</h6>
+              <h6> Região: {country.region}</h6>
               <h6> Capital: {country.capital}</h6>
             </div>
           </div>

@@ -15,7 +15,7 @@
 }
 
 body{
-  background: hsl(207, 26%, 17%);
+  background: hsla(209, 20%, 55%, 0.425);
 }
 
 
@@ -45,12 +45,33 @@ body{
 
 .country_card {
   width: 250px;
-  padding: 20px;
-  border-radius: 5px;
+  border-radius: 8px;
   background: hsl(209, 23%, 22%);
   color: #fff;
 }
 
+.country_img img {
+  width: 100%;
+  height: 150px;
+  border-radius: 8px 5px 0px 0px;
+}
+
+.all_country_wrapper {
+  margin-top: 100px;
+}
+
 .country_data {
-  
+  padding: 20px; 
+}
+
+.country_data h3{
+  margin-top: 10px; 
+  margin-bottom: 15px;
+  font-weight: 500;
+}
+
+.country_data h6{
+  margin-bottom: 10px;
+  font-weight: 400px;
+  opacity: 80%;
 }
